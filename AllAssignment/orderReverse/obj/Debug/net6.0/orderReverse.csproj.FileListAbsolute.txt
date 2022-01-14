@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\orderReverse\bin\Debug\net6.0\orderReverse.exe
+C:\Users\Adunya\Desktop\AAit\orderReverse\bin\Debug\net6.0\orderReverse.deps.json
+C:\Users\Adunya\Desktop\AAit\orderReverse\bin\Debug\net6.0\orderReverse.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\orderReverse\bin\Debug\net6.0\orderReverse.dll
+C:\Users\Adunya\Desktop\AAit\orderReverse\bin\Debug\net6.0\ref\orderReverse.dll
+C:\Users\Adunya\Desktop\AAit\orderReverse\bin\Debug\net6.0\orderReverse.pdb
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.dll
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\ref\orderReverse.dll
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.pdb
+C:\Users\Adunya\Desktop\AAit\orderReverse\obj\Debug\net6.0\orderReverse.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\substring\bin\Debug\net6.0\substring.exe
+C:\Users\Adunya\Desktop\AAit\substring\bin\Debug\net6.0\substring.deps.json
+C:\Users\Adunya\Desktop\AAit\substring\bin\Debug\net6.0\substring.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\substring\bin\Debug\net6.0\substring.dll
+C:\Users\Adunya\Desktop\AAit\substring\bin\Debug\net6.0\ref\substring.dll
+C:\Users\Adunya\Desktop\AAit\substring\bin\Debug\net6.0\substring.pdb
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.dll
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\ref\substring.dll
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.pdb
+C:\Users\Adunya\Desktop\AAit\substring\obj\Debug\net6.0\substring.genruntimeconfig.cache

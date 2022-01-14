@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\bin\Debug\net6.0\occurrenceofchar.exe
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\bin\Debug\net6.0\occurrenceofchar.deps.json
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\bin\Debug\net6.0\occurrenceofchar.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\bin\Debug\net6.0\occurrenceofchar.dll
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\bin\Debug\net6.0\ref\occurrenceofchar.dll
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\bin\Debug\net6.0\occurrenceofchar.pdb
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.dll
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\ref\occurrenceofchar.dll
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.pdb
+C:\Users\Adunya\Desktop\AAit\occurrenceofchar\obj\Debug\net6.0\occurrenceofchar.genruntimeconfig.cache

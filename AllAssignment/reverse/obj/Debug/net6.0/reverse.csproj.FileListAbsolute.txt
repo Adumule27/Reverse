@@ -1,0 +1,15 @@
+C:\Users\Adunya\Desktop\AAit\reverse\bin\Debug\net6.0\reverse.exe
+C:\Users\Adunya\Desktop\AAit\reverse\bin\Debug\net6.0\reverse.deps.json
+C:\Users\Adunya\Desktop\AAit\reverse\bin\Debug\net6.0\reverse.runtimeconfig.json
+C:\Users\Adunya\Desktop\AAit\reverse\bin\Debug\net6.0\reverse.dll
+C:\Users\Adunya\Desktop\AAit\reverse\bin\Debug\net6.0\ref\reverse.dll
+C:\Users\Adunya\Desktop\AAit\reverse\bin\Debug\net6.0\reverse.pdb
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.csproj.AssemblyReference.cache
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.AssemblyInfoInputs.cache
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.AssemblyInfo.cs
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.csproj.CoreCompileInputs.cache
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.dll
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\ref\reverse.dll
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.pdb
+C:\Users\Adunya\Desktop\AAit\reverse\obj\Debug\net6.0\reverse.genruntimeconfig.cache
